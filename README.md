@@ -1,4 +1,4 @@
-Rust と 暗号 と 通信のプロトコル と 低レイヤ に興味があります
+低レイヤに興味があります
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michirakara&layout=compact&show_icons=true" />
